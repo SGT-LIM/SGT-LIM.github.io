@@ -7,7 +7,8 @@ authors: "HaeIn Jung, MinJu Kim, HeuiYeen Yeen, YoungSun Lim, Myoung-Wan Koo"
 conference: "KCC 2023"
 paper_link: "https://drive.google.com/file/d/1LQXITooG-Q5c9JAbvYUdsEWgdF5K16GJ/view?usp=sharing"
 ---
-# Machine Comprehension Methodology for Legal Document Review Using a Generative Large Language Model
+
+This paper is accepted at the Proceedings of the Korea Computer Congress (KCC) Explainable Artificial Workshop 2023.
 
 ## Abstract
 
