@@ -43,6 +43,7 @@ FUS (Find Undetectable Sound) is a smartphone application designed to detect sou
 ## Value of the Paper
 
 This paper presents a novel application that addresses the problem of detecting high-frequency noises, which are often inaudible to adults but can cause hearing damage and stress in children and pets. The application leverages common smartphone features, making it accessible and cost-effective. The user study demonstrates the application's effectiveness and highlights areas for improvement, paving the way for future enhancements that could make the application more reliable and user-friendly. This work contributes to the fields of HCI, audio signal processing, and mobile application development, offering a practical solution for sound direction detection.
+
 ---
 
 ## Paper
