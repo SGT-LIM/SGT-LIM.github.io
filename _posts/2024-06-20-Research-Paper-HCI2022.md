@@ -7,6 +7,8 @@ conference: "Proceedings of the Korean HCI Conference"
 paper_link: "https://drive.google.com/file/d/1RnItVjJy5TRj-Tx6K8gnX4-KT3kn1DCQ/view?usp=sharing"
 ---
 
+This paper is accepted at the Proceedings of the Korean HCI Conference 2022.
+
 ### Abstract
 To address the issues caused by high-frequency noise, it is necessary to identify sounds that are not easily detectable. For this purpose, a logistic regression algorithm was developed to locate the source of the sound using a smartphone. Additionally, three apps were created to visualize the results, and their effectiveness in presenting the data was analyzed to determine the most efficient visualization method.
 
