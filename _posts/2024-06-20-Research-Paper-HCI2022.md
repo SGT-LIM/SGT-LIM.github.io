@@ -6,7 +6,6 @@ authors: "Youngsun Lim, Yongsoon Choi"
 conference: "Proceedings of the Korean HCI Conference"
 paper_link: "https://drive.google.com/file/d/1RnItVjJy5TRj-Tx6K8gnX4-KT3kn1DCQ/view?usp=sharing"
 ---
-
 This paper is accepted at the Proceedings of the Korean HCI Conference 2022.
 
 ### Abstract
