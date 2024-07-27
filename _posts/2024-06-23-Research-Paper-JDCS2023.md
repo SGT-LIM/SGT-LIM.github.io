@@ -8,6 +8,8 @@ conference: "Journal of Digital Contents Society (JDCS)"
 paper_link: "https://drive.google.com/file/d/1iX-k2BUr_70kWcupbTsDzPRhipt8frZy/view?usp=sharing"
 ---
 
+This paper is published in the Journal of Digital Contents Society 2022 (Korean Citation Index).
+
 ## Abstract
 
 When a child is exposed to high-frequency noise, problems such as noise-induced hearing loss may occur, but it is difficult for ordinary adults to recognize noise at a higher frequency than the audible frequency. To solve this problem, an application was developed to easily find a location where high-frequency noise occurs with a smartphone through the algorithm that compares the size of the sound wave. After selecting the initial design using bar charts and gradations through preliminary experiments, users conducted an experiment to find the location of high-frequency sound using the application. As a result of the experiment, a plurality of users were able to find a location where high-frequency noise occurred. In addition, as a result of the survey analysis, the service received a positive response that it was possible to find an audible high-frequency noise. In addition, we intend to develop future versions of applications that can find sound more conveniently by discussing ways to improve future designs and functions familiarly and reliably and simplify usage.
