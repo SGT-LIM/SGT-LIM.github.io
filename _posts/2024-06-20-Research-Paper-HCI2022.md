@@ -26,5 +26,5 @@ The machine learning model achieved approximately 90% accuracy in detecting the 
 #### Conclusion
 This research showcases a practical application of machine learning in addressing real-world problems related to high-frequency noise detection. By improving the detection and visualization of undetectable sounds, the study contributes to enhancing auditory awareness and preventing hearing loss and stress caused by noise.
 
-### Link
+### Paper
 <iframe src="https://drive.google.com/file/d/1RnItVjJy5TRj-Tx6K8gnX4-KT3kn1DCQ/preview" width="600" height="800"></iframe>
