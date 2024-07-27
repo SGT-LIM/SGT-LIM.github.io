@@ -1,7 +1,7 @@
 ---
-title: "(Capstone paper) FUS (Find Undetectable Sound): Machine Learning Application to Indicate the Sound Direction"
+title: "(Capstone) FUS (Find Undetectable Sound): Machine Learning Application to Indicate the Sound Direction"
 collection: papers
-permalink: /papers/find-undetectable-sound/
+permalink: /papers/capstone-find-undetectable-sound/
 authors: "Youngsun Lim, Yongsoon Choi"
 conference: "Proceedings of the Korean HCI Conference"
 paper_link: "https://drive.google.com/file/d/1RnItVjJy5TRj-Tx6K8gnX4-KT3kn1DCQ/view?usp=sharing"
