@@ -1,7 +1,7 @@
 ---
-title: "(Main paper) FUS (Find Undetectable Sound): An Application to Indicate Sound Direction"
+title: "(Main) FUS (Find Undetectable Sound): An Application to Indicate Sound Direction"
 collection: papers
-permalink: /papers/find-undetectable-sound/
+permalink: /papers/main-find-undetectable-sound/
 date: 2024-06-23
 authors: "Youngsun Lim, Yongsoon Choi"
 conference: "Journal of Digital Contents Society (JDCS)"
