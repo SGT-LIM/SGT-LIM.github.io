@@ -1,3 +1,12 @@
+---
+title: "FUS (Find Undetectable Sound): An Application to Indicate Sound Direction"
+collection: papers
+permalink: /papers/find-undetectable-sound/
+date: 2024-06-23
+authors: "Youngsun Lim, Yongsoon Choi"
+conference: "Journal of Digital Contents Society (JDCS)"
+paper_link: "https://drive.google.com/file/d/1iX-k2BUr_70kWcupbTsDzPRhipt8frZy/view?usp=sharing"
+---
 # FUS (Find Undetectable Sound): An Application to Indicate Sound Direction
 
 ## Abstract
@@ -36,4 +45,5 @@ FUS (Find Undetectable Sound) is a smartphone application designed to detect sou
 This paper presents a novel application that addresses the problem of detecting high-frequency noises, which are often inaudible to adults but can cause hearing damage and stress in children and pets. The application leverages common smartphone features, making it accessible and cost-effective. The user study demonstrates the application's effectiveness and highlights areas for improvement, paving the way for future enhancements that could make the application more reliable and user-friendly. This work contributes to the fields of HCI, audio signal processing, and mobile application development, offering a practical solution for sound direction detection.
 ---
 
-You can access the full paper [here](https://drive.google.com/file/d/1iX-k2BUr_70kWcupbTsDzPRhipt8frZy/view?usp=sharing).
+## Paper
+<iframe src="https://drive.google.com/file/d/1iX-k2BUr_70kWcupbTsDzPRhipt8frZy/preview" width="600" height="800"></iframe>
