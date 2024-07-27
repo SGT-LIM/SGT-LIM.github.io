@@ -1,5 +1,5 @@
 ---
-title: "FUS (Find Undetectable Sound): An Application to Indicate Sound Direction"
+title: "(Main paper) FUS (Find Undetectable Sound): An Application to Indicate Sound Direction"
 collection: papers
 permalink: /papers/find-undetectable-sound/
 date: 2024-06-23
