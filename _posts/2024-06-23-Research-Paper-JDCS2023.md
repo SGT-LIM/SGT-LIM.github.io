@@ -8,7 +8,7 @@ conference: "Journal of Digital Contents Society (JDCS)"
 paper_link: "https://drive.google.com/file/d/1iX-k2BUr_70kWcupbTsDzPRhipt8frZy/view?usp=sharing"
 ---
 
-This paper is published in the Journal of Digital Contents Society 2022 (Korean Citation Index).
+This paper is published in the Journal of Digital Contents Society (JDCS) 2022 (Korean Citation Index).
 
 ## Abstract
 
