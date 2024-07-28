@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My CV
+title: About me
 subtitle: Youngsun Lim's CV
 ---
 
