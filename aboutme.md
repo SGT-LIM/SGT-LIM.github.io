@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT ME
+title: Curriculum Vitae
 subtitle: Youngsun Lim's CV
 ---
 
