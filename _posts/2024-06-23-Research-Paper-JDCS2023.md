@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[JDCS22] (Main) FUS (Find Undetectable Sound): An Application to Indicate Sound Direction"
 collection: papers
 permalink: /papers/main-find-undetectable-sound/

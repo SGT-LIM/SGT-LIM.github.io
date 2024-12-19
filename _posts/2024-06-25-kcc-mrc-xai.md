@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[KCC23 Workshop] Machine Comprehension Methodology for Legal Document Review Using a Generative Large Language Model"
 collection: papers
 permalink: /papers/main-legal-document-review/

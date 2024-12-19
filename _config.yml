@@ -1,0 +1,4 @@
+collections:
+  papers:
+    output: true
+    permalink: /papers/

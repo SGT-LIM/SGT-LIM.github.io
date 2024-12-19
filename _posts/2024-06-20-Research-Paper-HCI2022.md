@@ -5,6 +5,7 @@ permalink: /papers/capstone-find-undetectable-sound/
 authors: "Youngsun Lim, Yongsoon Choi"
 conference: "Proceedings of the Korean HCI Conference"
 paper_link: "https://drive.google.com/file/d/1RnItVjJy5TRj-Tx6K8gnX4-KT3kn1DCQ/view?usp=sharing"
+layout: post
 ---
 This paper is accepted at the Proceedings of the Korean HCI Conference 2022.
 
@@ -13,7 +14,7 @@ To address the issues caused by high-frequency noise, it is necessary to identif
 
 ### Summary
 #### Research Motivation and Value
-The research addresses the issue of high-frequency noise, often undetectable by adults, which can cause significant stress to infants who can hear these sounds. The primary motivation is to develop a tool that helps locate the source of such noise, enabling parents to be aware of and mitigate the impact of high-frequency noise on infants. This research aims to enhance the quality of life by preventing noise-induced hearing loss and stress.
+The research addresses the issue of high-frequency noise, often undetectable by adults, which can cause significant stress to infants who can hear these sounds. The Sprimary motivation is to develop a tool that helps locate the source of such noise, enabling parents to be aware of and mitigate the impact of high-frequency noise on infants. This research aims to enhance the quality of life by preventing noise-induced hearing loss and stress.
 
 #### Methodology
 1. **Data Collection**: The study involved recording high-frequency sounds (16,000 Hz) in different directions around a smartphone, simulating real-life scenarios where noise sources need to be identified.
